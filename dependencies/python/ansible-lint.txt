@@ -12,7 +12,7 @@ enrich==1.2.7
 filelock==3.8.0
 importlib-resources==5.9.0
 Jinja2==3.1.2
-jsonschema==4.16.0
+jsonschema==4.17.0
 MarkupSafe==2.1.1
 mypy-extensions==0.4.3
 packaging==21.3

@@ -124,7 +124,7 @@ jobs:
 
       - name: Create a GitHub issue on failure
         if: failure()
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         id: create-issue
         with:
           # https://octokit.github.io/rest.js/v18#issues-create
@@ -140,7 +140,7 @@ jobs:
             return create.data.number
 
       - name: Assign admins to the issue created on failure
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         if: failure()
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}

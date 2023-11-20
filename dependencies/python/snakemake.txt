@@ -33,5 +33,5 @@ throttler==1.2.2
 toposort==1.7
 traitlets==5.8.0
 urllib3==1.26.13
-wrapt==1.14.1
+wrapt==1.16.0
 yte==1.5.1

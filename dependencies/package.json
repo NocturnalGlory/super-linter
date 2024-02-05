@@ -22,7 +22,7 @@
     "eslint-plugin-react": "^7.31.11",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-vue": "^9.8.0",
-    "gherkin-lint": "^4.2.2",
+    "gherkin-lint": "^4.2.4",
     "htmlhint": "^1.1.4",
     "immer": "^9.0.16",
     "ini": "^3.0.1",

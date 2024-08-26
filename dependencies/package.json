@@ -33,7 +33,7 @@
     "npm-groovy-lint": "^11.1.1",
     "prettier": "^2.8.1",
     "prettyjson": "^1.2.5",
-    "pug": "^3.0.2",
+    "pug": "^3.0.3",
     "sql-lint": "1.0.0",
     "standard": "^17.0.0",
     "stylelint": "^14.16.0",

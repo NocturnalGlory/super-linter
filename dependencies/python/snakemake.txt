@@ -18,7 +18,7 @@ MarkupSafe==2.1.1
 nbformat==5.7.1
 plac==1.3.5
 platformdirs==2.6.0
-psutil==5.9.4
+psutil==6.1.1
 PuLP==2.7.0
 pyrsistent==0.19.2
 PyYAML==6.0

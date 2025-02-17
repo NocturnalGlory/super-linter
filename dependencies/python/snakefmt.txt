@@ -5,4 +5,4 @@ pathspec==0.10.3
 platformdirs==2.6.0
 snakefmt==0.8.0
 toml==0.10.2
-tomli==2.0.1
+tomli==2.2.1

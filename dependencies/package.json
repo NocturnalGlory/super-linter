@@ -34,7 +34,7 @@
     "prettier": "^2.8.1",
     "prettyjson": "^1.2.5",
     "pug": "^3.0.2",
-    "sql-lint": "1.0.0",
+    "sql-lint": "1.0.2",
     "standard": "^17.0.0",
     "stylelint": "^14.16.0",
     "stylelint-config-recommended-scss": "^8.0.0",
